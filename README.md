@@ -164,8 +164,8 @@ Here are some tools to enhance your development workflow:
 
 ## 🧑‍💻 Author
 
-**Sahil Gupta**  
-👨‍🎓 BCA Student  
+**MANSI MAHAJAN**  
+👨‍🎓 MCA Student  
 🚀 Aspiring Full-Stack Developer  
 🌐 Passionate about Fitness, Web Development & the MERN stack  
 
@@ -187,7 +187,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 Have suggestions or want to collaborate?  
-Reach out via [sahilgupta9594@gmail.com] or open an issue here on GitHub!
+Reach out via [mahajanmansi1612@gmail.com] or open an issue here on GitHub!
 
 ---
 ```![Screenshot 2025-04-22 172542](https://github.com/user-attachments/assets/4e687229-932f-47e2-b6a7-4afe49f0a041)
